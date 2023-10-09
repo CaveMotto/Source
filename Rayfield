@@ -10,9 +10,9 @@ local RayfieldLibrary = {
 	Theme = {
 		Default = {
 			TextFont = "Default", -- Default will use the various font faces used across Rayfield
-			TextColor = Color3.fromRGB(172,2,2,255),
+			TextColor = Color3.fromRGB(172,2,2),
 
-			Background = Color3.fromRGB(12,12,12,255),
+			Background = Color3.fromRGB(12,12,12),
 			Topbar = Color3.fromRGB(34, 34, 34),
 			Shadow = Color3.fromRGB(20, 20, 20),
 
@@ -22,8 +22,8 @@ local RayfieldLibrary = {
 			TabBackground = Color3.fromRGB(80, 80, 80),
 			TabStroke = Color3.fromRGB(85, 85, 85),
 			TabBackgroundSelected = Color3.fromRGB(210, 210, 210),
-			TabTextColor = Color3.fromRGB(136,0,0,255),
-			SelectedTabTextColor = Color3.fromRGB(172,2,2,255),
+			TabTextColor = Color3.fromRGB(136,0,0),
+			SelectedTabTextColor = Color3.fromRGB(172,2,2),
 
 			ElementBackground = Color3.fromRGB(35, 35, 35),
 			ElementBackgroundHover = Color3.fromRGB(40, 40, 40),
@@ -49,7 +49,7 @@ local RayfieldLibrary = {
 		},
 		Light = {
 			TextFont = "Gotham",  -- Default will use the various font faces used across Rayfield
-			TextColor = Color3.fromRGB(172,2,2,255), -- i need to make all text 240, 240, 240 and base gray on transparency not color to do this
+			TextColor = Color3.fromRGB(172,2,2), -- i need to make all text 240, 240, 240 and base gray on transparency not color to do this
 
 			Background = Color3.fromRGB(255, 255, 255),
 			Topbar = Color3.fromRGB(217, 217, 217),
@@ -62,7 +62,7 @@ local RayfieldLibrary = {
 			TabStroke = Color3.fromRGB(112, 112, 112),
 			TabBackgroundSelected = Color3.fromRGB(0, 142, 208),
 			TabTextColor = Color3.fromRGB(240, 240, 240),
-			SelectedTabTextColor = Color3.fromRGB(172,2,2,255),
+			SelectedTabTextColor = Color3.fromRGB(172,2,2),
 
 			ElementBackground = Color3.fromRGB(198, 198, 198),
 			ElementBackgroundHover = Color3.fromRGB(230, 230, 230),
